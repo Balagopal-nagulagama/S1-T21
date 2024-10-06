@@ -23,7 +23,7 @@
 <details>
   <summary>Detail</summary>
   
-  > Probolem statement: Our system uses Verilog Hardware Description Language (HDL) to program microcontrollers or FPGAs that precisely control electronic locks, ensuring reliable operation (Brown \& Vranesic, 2014). The software interface manages locker assignments, tracks deliveries, and communicates with customers through notifications. Integration with Microsoft Azure IoT Hub enables cloud-based monitoring and real-time data management, enhancing scalability and remote accessibility (Microsoft Azure Documentation, 2023).
+  > Problem statement: Our system uses Verilog Hardware Description Language (HDL) to program microcontrollers or FPGAs that precisely control electronic locks, ensuring reliable operation (Brown \& Vranesic, 2014). The software interface manages locker assignments, tracks deliveries, and communicates with customers through notifications. Integration with Microsoft Azure IoT Hub enables cloud-based monitoring and real-time data management, enhancing scalability and remote accessibility (Microsoft Azure Documentation, 2023).
 
   > Motivation: The surge in e-commerce has led to increased package deliveries, resulting in challenges like missed deliveries and package theft (Morganti et al., 2014). Traditional delivery methods often fail to address these issues effectively. To enhance package security and delivery efficiency, we propose an \textbf{Automated Delivery Locker System} utilizing Verilog-controlled locking mechanisms.
 
