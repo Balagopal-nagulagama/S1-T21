@@ -38,32 +38,48 @@ offers a scalable infrastructure that enhances delivery management, making it ad
 different environments while ensuring seamless operation (Williams Brown, 2020).
 
 </details>
-</details>
 
 ## Functional Block diagram 
+<details>
+  <summary>Detail</summary>
 <img alt="s1-t21" src="https://github.com/user-attachments/assets/28ec6284-67b6-492e-8372-b28b4f373f98"><img/>
-<!-- Third Section -->![s1-t21 drawio (3)](https://github.com/user-attachments/assets/84840a7e-e30a-4ecc-aed3-61c30e228f37)
+<!-- Third Section -->
+</details>
 
-
+<!-- Fourth Section -->
 ## Working
 <details>
   <summary>Detail</summary>
 
-  > Explain the working of your model with the help of a functional table (compulsory) followed by the flowchart.
+  > Explain how your model works with the help of a functional table (compulsory) followed by the flowchart.
+</details>
 
-<!-- Fourth Section -->
+<!-- Fifth Section -->
 ## Logisim Circuit Diagram
-
 <details>
   <summary>Detail</summary>
 
   > Update a neat logisim circuit diagram
 </details>
 
-<!-- Fifth Section -->
+<!-- Sixth Section -->
 ## Verilog Code
 <details>
   <summary>Detail</summary>
 
   > Neatly update the Verilog code in code style only.
 </details>
+
+## References
+<details>
+  <summary>Detail</summary>
+
+1. Morganti, E., Dablanc, L., & Fortin, F. (2014). https://doi.org/10.1016/j.rtbm.2014.03.002
+2. Microsoft Azure Documentation. (2023). https://learn.microsoft.com/en-us/azure/iot-hub/
+3. Williams, R., & Brown, T. (2020). https://doi.org/10.14569/IJACSA.2020.0110804
+4. Bhasker, J. (2005). A Verilog HDL Primer (3rd ed.). Star Galaxy Publishing.
+5. Brown, S. D., & Vranesic, Z. G. (2014). Fundamentals of Digital Logic with Verilog Design
+(3rd ed.). McGraw-Hill Education.  
+  
+  </details>
+  
