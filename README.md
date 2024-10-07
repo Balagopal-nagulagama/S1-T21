@@ -23,11 +23,14 @@
 <details>
   <summary>Detail</summary>
   
-  > Problem statement: Our system uses Verilog Hardware Description Language (HDL) to program microcontrollers or FPGAs that precisely control electronic locks, ensuring reliable operation (Brown \& Vranesic, 2014). The software interface manages locker assignments, tracks deliveries, and communicates with customers through notifications. Integration with Microsoft Azure IoT Hub enables cloud-based monitoring and real-time data management, enhancing scalability and remote accessibility (Microsoft Azure Documentation, 2023).
+  > Problem statement:
+> Our system uses Verilog Hardware Description Language (HDL) to program microcontrollers or FPGAs that precisely control electronic locks, ensuring reliable operation (Brown \& Vranesic, 2014). The software interface manages locker assignments, tracks deliveries, and communicates with customers through notifications. Integration with Microsoft Azure IoT Hub enables cloud-based monitoring and real-time data management, enhancing scalability and remote accessibility (Microsoft Azure Documentation, 2023).
 
-  > Motivation: The surge in e-commerce has led to increased package deliveries, resulting in challenges like missed deliveries and package theft (Morganti et al., 2014). Traditional delivery methods often fail to address these issues effectively. To enhance package security and delivery efficiency, we propose an \textbf{Automated Delivery Locker System} utilizing Verilog-controlled locking mechanisms.
+  > Motivation:
+> The surge in e-commerce has led to increased package deliveries, resulting in challenges like missed deliveries and package theft (Morganti et al., 2014). Traditional delivery methods often fail to address these issues effectively. To enhance package security and delivery efficiency, we propose an \textbf{Automated Delivery Locker System} utilizing Verilog-controlled locking mechanisms.
 
-  > Features:1. Verilog-Based Hardware Control for Automated Delivery: The system utilizes Verilog to
+  > Features:1.
+> Verilog-Based Hardware Control for Automated Delivery: The system utilizes Verilog to
 manage hardware, automating the delivery process in residential complexes, retail stores, and
 offices. This improves operational efficiency and reduces the risks of theft.
 2.Cloud Integration for Scalability and Efficiency: By integrating with the cloud, the solution
@@ -35,6 +38,10 @@ offers a scalable infrastructure that enhances delivery management, making it ad
 different environments while ensuring seamless operation (Williams Brown, 2020).
 
 </details>
+</details>
+
+## Functional Block diagram 
+<img alt="S1-T21" src="https://github.com/user-attachments/assets/45b7e51e-8e03-4946-a81d-245931e6e123"><img/>
 
 <!-- Third Section -->
 ## Working
@@ -42,10 +49,6 @@ different environments while ensuring seamless operation (Williams Brown, 2020).
   <summary>Detail</summary>
 
   > Explain the working of your model with the help of a functional table (compulsory) followed by the flowchart.
-</details>
-
-## Functional Block diagram 
-<img alt="S1-T21" src="https://github.com/user-attachments/assets/45b7e51e-8e03-4946-a81d-245931e6e123"><img/>
 
 <!-- Fourth Section -->
 ## Logisim Circuit Diagram
