@@ -44,8 +44,12 @@ different environments while ensuring seamless operation (Williams Brown, 2020).
   > Explain the working of your model with the help of a functional table (compulsory) followed by the flowchart.
 </details>
 
+## Functional Block diagram 
+<img alt="S1-T21" src="https://github.com/user-attachments/assets/45b7e51e-8e03-4946-a81d-245931e6e123"><img/>
+
 <!-- Fourth Section -->
 ## Logisim Circuit Diagram
+
 <details>
   <summary>Detail</summary>
 
