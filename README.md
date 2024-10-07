@@ -41,9 +41,10 @@ different environments while ensuring seamless operation (Williams Brown, 2020).
 </details>
 
 ## Functional Block diagram 
-<img alt="S1-T21" src="https://github.com/user-attachments/assets/45b7e51e-8e03-4946-a81d-245931e6e123"><img/>
+<img alt="s1-t21" src="https://github.com/user-attachments/assets/28ec6284-67b6-492e-8372-b28b4f373f98"><img/>
+<!-- Third Section -->![s1-t21 drawio (3)](https://github.com/user-attachments/assets/84840a7e-e30a-4ecc-aed3-61c30e228f37)
 
-<!-- Third Section -->
+
 ## Working
 <details>
   <summary>Detail</summary>
