@@ -1,20 +1,56 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="jA72wmr09rMZvV9-UYb5">
-    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1345" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6uXUlTntQVw2UAOMfC1o-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="340" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="6uXUlTntQVw2UAOMfC1o-1" value="&lt;font size=&quot;3&quot;&gt;Package Arrival&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="695" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6uXUlTntQVw2UAOMfC1o-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="220" y="200" width="80" height="80" as="geometry" />
+        <mxCell id="JJ_Bp0bSZyS6CLk1MbXZ-9" value="assign locker successful?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="360" width="160" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="6uXUlTntQVw2UAOMfC1o-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="470" y="200" width="80" height="80" as="geometry" />
+        <mxCell id="JJ_Bp0bSZyS6CLk1MbXZ-11" value="lock locker with electronic lock" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="660" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6uXUlTntQVw2UAOMfC1o-6" value="DDS Mini&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="360" y="85" width="80" height="30" as="geometry" />
+        <mxCell id="JJ_Bp0bSZyS6CLk1MbXZ-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="800" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_Bp0bSZyS6CLk1MbXZ-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1100" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_Bp0bSZyS6CLk1MbXZ-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1130" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_Bp0bSZyS6CLk1MbXZ-15" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1330" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_Bp0bSZyS6CLk1MbXZ-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1620" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_Bp0bSZyS6CLk1MbXZ-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1640" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_Bp0bSZyS6CLk1MbXZ-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="1770" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_Bp0bSZyS6CLk1MbXZ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="2050" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_Bp0bSZyS6CLk1MbXZ-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="2060" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_Bp0bSZyS6CLk1MbXZ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="2060" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_Bp0bSZyS6CLk1MbXZ-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2190" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_Bp0bSZyS6CLk1MbXZ-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="2320" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JJ_Bp0bSZyS6CLk1MbXZ-25" value="system detects package" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="694" y="246" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
