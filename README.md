@@ -54,7 +54,8 @@ different environments while ensuring seamless operation (Williams Brown, 2020).
   > Explain how your model works with the help of a functional table (compulsory) followed by the flowchart.
 </details>
 
-<!-- Fifth Section -->
+
+<!-- Fifth Section -->!
 ## Logisim Circuit Diagram
 <details>
   
@@ -62,9 +63,9 @@ different environments while ensuring seamless operation (Williams Brown, 2020).
 
   > Update a neat logisim circuit diagram
 </details>
-
+![Logism](https://github.com/user-attachments/assets/daaedcea-c4e8-425f-9fc0-1d3629bb632b)
 <!-- Sixth Section -->!
-ism](https://github.com/user-attachments/assets/575fe5f7-f85e-431e-8793-f0a925aa482a)
+
 
 ## Verilog Code
 <details>
