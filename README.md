@@ -65,7 +65,7 @@ different environments while ensuring seamless operation (Williams Brown, 2020).
   > Update a neat logisim circuit diagram
 </details>
 
-<!-- Sixth Section -->!
+<!-- Sixth Section -->
 
 
 ## Verilog Code
