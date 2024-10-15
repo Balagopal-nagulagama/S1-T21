@@ -58,12 +58,13 @@ different environments while ensuring seamless operation (Williams Brown, 2020).
 <!-- Fifth Section -->!
 ## Logisim Circuit Diagram
 <details>
+![Logism](https://github.com/user-attachments/assets/daaedcea-c4e8-425f-9fc0-1d3629bb632b)
   
   <summary>Detail</summary>
 
   > Update a neat logisim circuit diagram
 </details>
-![Logism](https://github.com/user-attachments/assets/daaedcea-c4e8-425f-9fc0-1d3629bb632b)
+
 <!-- Sixth Section -->!
 
 
