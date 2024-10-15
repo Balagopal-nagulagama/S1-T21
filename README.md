@@ -57,12 +57,15 @@ different environments while ensuring seamless operation (Williams Brown, 2020).
 <!-- Fifth Section -->
 ## Logisim Circuit Diagram
 <details>
+  
   <summary>Detail</summary>
 
   > Update a neat logisim circuit diagram
 </details>
 
-<!-- Sixth Section -->
+<!-- Sixth Section -->!
+ism](https://github.com/user-attachments/assets/575fe5f7-f85e-431e-8793-f0a925aa482a)
+
 ## Verilog Code
 <details>
   <summary>Detail</summary>
