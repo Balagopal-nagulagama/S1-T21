@@ -56,7 +56,9 @@ different environments while ensuring seamless operation (Williams Brown, 2020).
 <!-- Fifth Section -->
 ## Logisim Circuit Diagram
 <details>
-[Logism](https://github.com/user-attachments/assets/daaedcea-c4e8-425f-9fc0-1d3629bb632b)
+
+![IMG-20241016-WA0009](https://github.com/user-attachments/assets/d8b60ced-75c4-4ead-8353-de3db66d9eb1)
+
   
   <summary>Detail</summary>
 
