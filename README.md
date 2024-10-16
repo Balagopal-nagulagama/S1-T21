@@ -105,6 +105,8 @@ age delivery and retrieval.
 
   > Neatly update the Verilog code in code style only.
 </details>
+![Screenshot 2024-10-17 035049](https://github.com/user-attachments/assets/52c1e34f-2f7b-4690-a594-67f6c18111df)
+
 
 ## References
 <details>
