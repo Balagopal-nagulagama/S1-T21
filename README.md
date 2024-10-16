@@ -50,7 +50,26 @@ different environments while ensuring seamless operation (Williams Brown, 2020).
 ## Working
 <details>
   <summary>Detail</summary>
-  > Explain how your model works with the help of a functional table (compulsory) followed by the flowchart.
+   This Automated Delivery Locker System operates through user authentica-
+tion, dynamic locker management, and notifications to provide a seamless
+user experience for delivery and retrieval of packages. The system comprises
+lockers, sensors, a user interface, and control logic, all connected to ensure
+security and ease of use.
+  
+Key Components in the System
+
+• Locker Array: A set of lockers where packages are stored, each locker
+being individually controlled.
+
+• Authentication System: Users authenticate themselves via PIN or
+biometric verification to access their packages.
+
+• Control Logic: Manages locker assignment and user interactions.
+
+• User Interface: A screen or keypad for inputting credentials.
+
+• Notification System: Sends real-time notifications to users for pack-
+age delivery and retrieval.
 </details>
 
 <!-- Fifth Section -->
