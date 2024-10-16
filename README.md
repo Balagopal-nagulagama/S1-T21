@@ -89,7 +89,19 @@ age delivery and retrieval.
 
 ## Verilog Code
 <details>
-  <summary>Detail</summary>
+  <summary>Main</summary>
+
+  > Neatly update the Verilog code in code style only.
+</details>
+
+<details>
+  <summary>Testbench</summary>
+
+  > Neatly update the Verilog code in code style only.
+</details>
+
+<details>
+  <summary>Output</summary>
 
   > Neatly update the Verilog code in code style only.
 </details>
