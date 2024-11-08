@@ -85,7 +85,13 @@ age delivery and retrieval.
 </details>
 
 <!-- Sixth Section -->
+## Hardware Implementation Circuit
+<details>
+     
+![Screenshot 2024-11-07 132735](https://github.com/user-attachments/assets/f71c5454-5349-4509-ac68-445aa1206a1b)
+  <summary>Detail</summary>
 
+</details>
 
 ## Verilog Code
 <details>
