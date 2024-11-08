@@ -89,7 +89,9 @@ age delivery and retrieval.
 
 ## Verilog Code
 <details>
-  <summary>Main</summary>
+  <summary>Detail</summary>
+  <details>
+     <summary>Main</summary>
 
      module AutomatedDeliveryLockerSystem (
     input [3:0] user_pin, 
@@ -431,6 +433,7 @@ age delivery and retrieval.
 
    ![Screenshot 2024-10-17 035049](https://github.com/user-attachments/assets/d3acc01b-63ab-4860-8bd6-87a6fb910392)
 
+</details>
 </details>
 
 ## References
